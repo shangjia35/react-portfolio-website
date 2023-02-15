@@ -19,7 +19,7 @@ const About = () => {
           <p>
             I am a junior in Computer Science at Purdue University with minors in Mathematics and Music History & Theory. 
             My concentration is machine intelligence.
-            I am also an undergraduate teaching assistant in Computer Architecture and Systems Programming.
+            I am also an undergraduate data science researcher at Purdue University.
           </p>
           <p>
             I like music and enjoy playing the piano in my spare time. 
