@@ -29,14 +29,22 @@
 
 .experience__content {
     color: var(--color-light);
-    display: grid;
+    /*display: grid;*/
+    
     
 }
 
-.experience__content-icon {
-    
+.experience__content li {
     display: flex;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
 }
+
+.experience__content p {
+    font-size: 0.9rem;
+}
+
+
 
 /* Media Queries (Small Devices) */
 @media screen and (max-width: 600px) {
